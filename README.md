@@ -3,7 +3,7 @@
   <img src="assets/logo-aurum.png" alt="Logo Aurum" width="1000" />
 
   # AURUM
-  ### Controle Financeiro Preciso e Elegante
+  ### Controle Financeiro Preciso
 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
