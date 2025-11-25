@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/logo-aurum.png" alt="Logo Aurum" width="120" />
+  <img src="assets/logo-aurum.png" alt="Logo Aurum" width="1000" />
 
   # AURUM
   ### Controle Financeiro Preciso e Elegante
